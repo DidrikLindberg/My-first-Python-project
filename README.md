@@ -1,2 +1,2 @@
-# My-first-Python-projects
+# My-Python-projects
 this repository will include projects I am doing through the IBM data analyst certificate program. 
